@@ -1,2 +1,2 @@
 # SISNet
-Official code for our work: "Selective Intra-image Similarity for Personalized Fixation-based Object Segmentation".
+Official code for our TCSVT paper: "Selective Intra-image Similarity for Personalized Fixation-based Object Segmentation".
